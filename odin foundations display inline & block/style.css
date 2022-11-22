@@ -1,0 +1,15 @@
+div{
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 25px;
+    color: #eeeeee;
+}
+.introduction{
+    background-color: #ff4000;
+}
+.main-content{
+    background-color: #ff7000;
+}
+.contact-information{
+    background-color:#ff9000;
+}
