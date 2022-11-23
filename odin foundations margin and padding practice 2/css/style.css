@@ -13,8 +13,9 @@ body {
   .title {
     background: #e3f4ff;
     font-size: 16px;
-    margin: auto;
+    margin: 0;
     padding: 8px;
+    
   }
   
   .content {
@@ -33,7 +34,8 @@ body {
   button {
     background: white;
     border: 1px solid #eee;
-    display: flex;
+    padding: 8px 24px;
+    display: block;
     margin: auto;
     
   }
