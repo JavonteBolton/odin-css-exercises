@@ -51,17 +51,17 @@ button{
     background: black;
     color: white;
     padding: 8px;
-    margin: 12px;
+    margin: auto;
 }
 .content{
     background: blue;
     color: white;
     padding: 8px;
     text-align: center;
-    margin-left: 5px;
-    margin-right: 5px;
-    margin-top: 12px;
-    margin-bottom: 12px;
+    margin: 0 auto;
+    margin-left: 12px;
+    margin-right: 12px;
+    
 }
     
 .conclusion{
@@ -70,7 +70,7 @@ button{
     font-weight: bold;
     padding: 8px;
     font-size: 15px;
-    margin: 12px;
+    
 }
 
 
