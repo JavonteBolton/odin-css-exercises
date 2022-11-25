@@ -52,7 +52,6 @@ button{
     color: white;
     padding: 8px;
     margin: 12px;
-    display: flex;
 }
 .content{
     background: blue;
@@ -63,7 +62,6 @@ button{
     margin-right: 5px;
     margin-top: 12px;
     margin-bottom: 12px;
-    display: flex;
 }
     
 .conclusion{
@@ -73,7 +71,6 @@ button{
     padding: 8px;
     font-size: 15px;
     margin: 12px;
-    display: flex;
 }
 
 
