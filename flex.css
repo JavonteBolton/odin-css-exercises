@@ -1,0 +1,16 @@
+.flex-container {
+    display: flex;
+  }
+  
+  /* this selector selects all divs inside of .flex-container */
+  .flex-container div {
+    background: peachpuff;
+    border: 4px solid brown;
+    height: 100px;
+    width: 250px;
+    flex: 1 1;
+  }
+  
+  .flex-container .two {
+    flex-grow: 25;
+  }
