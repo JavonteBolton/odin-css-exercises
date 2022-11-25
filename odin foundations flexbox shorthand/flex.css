@@ -12,5 +12,5 @@
   }
   
   .flex-container .two {
-    flex-shrink: 10;
+    flex-grow: 1;
   }
