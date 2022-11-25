@@ -1,0 +1,74 @@
+body{
+
+    font-family: sans-serif;
+    background: #9b9696;
+}
+.flex-container div{
+    width: 400px;
+    margin: auto;
+    border: 5px solid red;
+    height: 200px;
+}
+.one{
+    background-color: #9b9696;
+    margin:auto;
+    padding: 8px;
+    background-color: white;
+}
+.two{
+    margin: auto;
+    padding: 8px;
+    background-color: pink;
+    color: blue;
+}
+.three{
+    margin: auto;
+    padding: 8px;
+    background-color: #000000;
+    color: white;
+}
+div .button {
+    background-color: grey;
+    margin: auto;
+    padding: 8px;
+    text-align: center;
+}
+button{
+    margin: auto;
+    background: red;
+    color: white;
+    border-radius: 30px;
+}
+.body-text {
+    height: auto;
+    width:250px;
+    margin: auto;
+    border: 10px solid white;
+    margin-top: 16px;
+    background: #ffffff;
+}
+.title{
+    background: black;
+    color: white;
+    padding: 8px;
+}
+.content{
+    background: blue;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    
+}
+.conclusion{
+    background: black;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 8px;
+    font-size: 15px;
+}
+
+
+
+
