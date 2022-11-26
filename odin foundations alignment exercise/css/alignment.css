@@ -1,10 +1,9 @@
 .alignment-container{
-    color: white;
     display: flex;
 }
 .alignment-container div{
-    width: auto;
-    height: auto;
+    width: 100px;
+    height: 100px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
     border: 5px solid blue;
