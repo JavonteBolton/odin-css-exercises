@@ -1,6 +1,6 @@
 .alignment-container{
     display: flex;
-    justify-content: space-between;
+    align-items: center;
 }
 .alignment-container div{
     height: 100px;
@@ -11,14 +11,14 @@
 }
 
 .one{
-    padding: 5px;
+
 }
 .two{
-    padding: 5px;
+
 }
 .three{
-    padding: 5px;
+
 }
 .four{
-    padding: 5px;
+
 }
