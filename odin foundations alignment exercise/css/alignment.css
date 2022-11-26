@@ -1,14 +1,15 @@
 .alignment-container{
     display: flex;
+    justify-content: space-between;
 }
 .alignment-container div{
-    width: 100px;
     height: 100px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
     border: 5px solid blue;
     background: lightblue;
 }
+
 .one{
     padding: 5px;
 }
