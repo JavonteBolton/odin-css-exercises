@@ -1,9 +1,9 @@
 body {
     font-family: 'Courier New', Courier, monospace;
-
+    text-align: center;
   }
   
-  div img {
+  img {
     width: 100px;
     height: 100px;
     padding: 52px;
@@ -19,28 +19,11 @@ body {
   }
   .content{
     display: flex;
-    margin-inline: 52px;
-    width: 0 auto;
+    gap: 52px;
+    justify-content: center;
 }
-  div.text{
-    margin-inline: 52px;
-    margin-top: -15px;
- }
-  .barberry img {
-    display: flex;
-  }
-  .barberry img {
-    display: flex;
-    height: auto;
-  }
-  .chilli img {
-    display: flex;
-  }
-  .pepper img {
-    display: flex;
-  }
-  .saffron img {
-    display: flex;
+  .info{
+    max-width: 200px;
   }
   
   /* do not edit this footer */
